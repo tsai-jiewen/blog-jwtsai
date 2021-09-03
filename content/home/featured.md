@@ -5,11 +5,6 @@ headless: true
 weight: 10
 title: 老師，我有在讀書！
 active: true
-design:
-  columns: "2"
-  background:
-    text_color_light: false
-    image_darken: 0
 content:
   # Page type to display. E.g. post, event, or publication.
   page_type: publication
@@ -29,6 +24,7 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)
   view: 3
+  
 ---
 
 
