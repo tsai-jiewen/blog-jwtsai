@@ -5,9 +5,9 @@
 
 # Appearance
 
-theme: starter-blog
+theme: Classic
 day_night: true
-font: 'Classic'
+font: ''
 font_size: XL
 
 # SEO
