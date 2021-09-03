@@ -10,8 +10,6 @@ design:
   background:
     text_color_light: false
     image_darken: 0
----
-
 content:
   # Page type to display. E.g. post, event, or publication.
   page_type: publication
@@ -31,6 +29,9 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)
   view: 3
+---
+
+
 
 
 個人部落格的核心理念是：
