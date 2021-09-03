@@ -72,7 +72,7 @@ comments:
   commentable:
     post: true
   disqus:
-    shortname: ''
+    shortname: 'https-jiewen-netlify-app'
     show_count: true
   commento:
     url: ''
