@@ -1,5 +1,5 @@
 ---
-widget: pages
+widget: featured
 widget_id: my-widget-0904
 headless: true
 weight: 10
@@ -7,7 +7,7 @@ title: 老師，我有在讀書！
 active: true
 content:
   # Page type to display. E.g. post, event, or publication.
-  page_type: publication
+  page_type: post
   # Choose how much pages you would like to display (0 = all pages)
   count: 0
   # Page order. Descending (desc) or ascending (asc) date.
