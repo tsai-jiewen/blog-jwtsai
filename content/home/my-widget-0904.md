@@ -1,7 +1,7 @@
 ---
 widget: featured
 widget_id: my-widget-0904
-headless: true
+headless: false
 weight: 10
 title: 老師，我有在讀書！
 active: true
