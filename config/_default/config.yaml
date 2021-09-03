@@ -5,7 +5,7 @@
 
 title: Hugo Blog Theme # Website name
 baseurl: '/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '© {year} JW Tsai' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
