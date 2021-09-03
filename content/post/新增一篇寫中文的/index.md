@@ -2,7 +2,7 @@
 title: 新增一篇寫中文的
 date: 2021-09-03T21:32:17.554Z
 draft: false
-featured: false
+featured: true
 authors:
   - JW Tsai
 image:
