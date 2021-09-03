@@ -1,10 +1,9 @@
 ---
-widget: featured
+widget: pages
 widget_id: my-widget-0904
 headless: true
 weight: 10
 title: 老師，我有在讀書！
-active: true
 content:
   # Page type to display. E.g. post, event, or publication.
   page_type: post
@@ -23,7 +22,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 3
+  view: 1
   
 ---
 
