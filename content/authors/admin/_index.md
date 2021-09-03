@@ -1,9 +1,9 @@
 ---
 title: JW Tsai
-avatar_filename: avatar
+avatar_filename: avatar.png
 bio: PhD student @NCCU.
-interests:
-social: 
+interests: null
+social:
   - icon: github
     icon_pack: fab
     link: https://github.com/tsai-jiewen
