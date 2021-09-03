@@ -31,7 +31,7 @@ main_menu:
 
 # Localization
 
-date_format: 'Jan 2, 2006'
+date_format: "2006-01-02"
 time_format: '15:04'
 
 # Site features
@@ -58,7 +58,7 @@ reading_time: true
 section_pager: true
 sharing: true
 copyright_license:
-  enable: false
+  enable: true
   allow_derivatives: false
   share_alike: true
   allow_commercial: false
