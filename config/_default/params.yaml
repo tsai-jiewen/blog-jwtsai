@@ -7,7 +7,7 @@
 
 theme: starter-blog
 day_night: true
-font: ''
+font: 'Classic'
 font_size: XL
 
 # SEO
@@ -32,15 +32,17 @@ main_menu:
 # Localization
 
 date_format: 'Jan 2, 2006'
-time_format: '3:04 PM'
+time_format: '15:04'
 
 # Site features
 
 highlight: true
 highlight_languages:
   - r
-math: false
-diagram: false
+  - python
+  - tex
+math: true
+diagram: true
 privacy_pack: false
 edit_page:
   repo_url: ''
