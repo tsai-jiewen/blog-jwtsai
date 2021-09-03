@@ -12,3 +12,4 @@ main:
     weight: 20
   - name: Posts
     url: post/
+    weight: 30
