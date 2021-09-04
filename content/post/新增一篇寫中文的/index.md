@@ -32,3 +32,5 @@ image:
 
 - Jones., etc, ().Intro to sci programming & sim using R, 2/e.
 這本還不錯！一本書結合了 Programming, Numerical techniques, Probability and statistics, Simulation 四大部分！ 
+
+ {{ partial "likecoin.html" . }}
