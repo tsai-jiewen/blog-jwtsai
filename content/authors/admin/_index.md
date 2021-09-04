@@ -1,6 +1,6 @@
 ---
 title: JW Tsai
-role: PhD student in Educational Research.
+role: PhD student in Education.
 avatar_filename: avatar.png
 bio: ""
 interests: null
