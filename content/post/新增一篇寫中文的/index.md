@@ -11,11 +11,9 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-新增一篇寫中文的
+{{< toc >}}
 
-最近要整理的幾個東西
-
-
+## 最近要整理的幾個東西
 
 - [ ] 效度的標準（從 Education ...那本書）
 - [ ] EM, MCMC, 估計法
@@ -27,11 +25,10 @@ image:
 - [ ] Embretson這本書也非常值得詳細讀！！！Item Response Theory for Psychologists (Multivariate Applications Book Series) by Susan E. Embretson, Steven P. Reise (z-lib.org) (1)
 - [ ] [- Wang, W. C., Wilson, M., & Adams, R. J. (1998). Measuring individual differences in change with multidimensional Rasch models. Journal of Outcome](simplenote://note/77c1324d434a4a1db148428557382489)
 
+## 其他文獻
+
 - George, A. C., & Robitzsch, A. (2015) Cognitive Diagnosis Models in R: A Didactic. The Quantitative Methods for Psychology,
 11(3), 189-205.
-
-
 - Jones., etc, ().Intro to sci programming & sim using R, 2/e.
 這本還不錯！一本書結合了 Programming, Numerical techniques, Probability and statistics, Simulation 四大部分！ 
 
-<iframe class="LikeCoin" height="235" src="https://button.like.co/in/embed/tsai_jiewen/button?referrer=https://blog-jwtsai.netlify.app/post/%E6%96%B0%E5%A2%9E%E4%B8%80%E7%AF%87%E5%AF%AB%E4%B8%AD%E6%96%87%E7%9A%84/" width="100%" frameborder=0></iframe>
