@@ -1,5 +1,5 @@
 ---
-title: TAM 10講
+title: TAM 10 講
 date: 2021-09-04T01:46:23.030Z
 draft: false
 featured: true
