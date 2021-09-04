@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Hugo Blog Theme # Website name
+title: Blog JW Tsai # Website name
 baseurl: '/' # Website URL
 copyright: '© {year} JW Tsai' # Footer text, e.g. '© {year} Me'
 
@@ -30,7 +30,7 @@ module:
 ############################
 
 enableGitInfo: false
-summaryLength: 30
+summaryLength: 20
 paginate: 10
 enableEmoji: true
 enableRobotsTXT: true
