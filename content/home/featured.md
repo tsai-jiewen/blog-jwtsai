@@ -14,9 +14,9 @@ content:
     category: ""
     publication_type: ""
 design:
-  view: 3
+  view: 2
 ---
 
-個人部落格的核心理念是：
-「老師，我有在讀書！」
+個人部落格的核心概念是：「老師，我有在讀書！」
+
 psykit-learn 只是一個副標題。
