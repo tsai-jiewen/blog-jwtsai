@@ -68,7 +68,7 @@ avatar:
   gravatar: false
   shape: circle
 comments:
-  provider: ''
+  provider: 'disqus'
   commentable:
     post: true
   disqus:
