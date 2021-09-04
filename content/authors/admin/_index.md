@@ -1,5 +1,6 @@
 ---
 title: JW Tsai
+role: PhD student of Education.
 avatar_filename: avatar.png
 bio: PhD student @NCCU.
 interests: null
@@ -22,10 +23,10 @@ organizations:
 education:
   courses:
     - course: MA in Educational Administration
-      institution: National ChengChi University, Taipei, Taiwan
+      institution: National ChengChi University, Taiwan
       year: 2020
     - course: BA in Education with Teacher Counselor Certificate (Secondary)
-      institution: National ChengChi University, Taipei, Taiwan
+      institution: National ChengChi University, Taiwan
       year: 2017
 email: tsai.jwen@gmail.com
 superuser: true
