@@ -14,7 +14,7 @@ content:
     category: ""
     publication_type: ""
 design:
-  view: 1
+  view: 3
 ---
 
 個人部落格的核心理念是：
