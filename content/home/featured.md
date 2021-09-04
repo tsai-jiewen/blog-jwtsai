@@ -14,7 +14,7 @@ content:
     category: ""
     publication_type: ""
 design:
-  view: 
+  view: 1
 ---
 
 個人部落格的核心概念是：「老師，我有在讀書！」
