@@ -1,5 +1,5 @@
 ---
-title: R 語言 TAM 10 講
+title: R 語言 TAM 套件．10 講
 date: 2021-09-04T01:46:23.030Z
 draft: false
 featured: true
@@ -16,7 +16,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-R 語言 TAM 10 講
+R 語言 TAM 套件．10 講
 
 - lavaanify
 - Rasch
