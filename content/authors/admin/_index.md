@@ -1,8 +1,8 @@
 ---
 title: JW Tsai
-role: PhD student of Education.
+role: PhD student in Educational Research.
 avatar_filename: avatar.png
-bio: PhD student @NCCU.
+bio: ""
 interests: null
 social:
   - icon: github
