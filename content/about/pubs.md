@@ -23,7 +23,7 @@ design:
 
 {{% toc %}}
 
-## Journal article
+## Journal articles
 -
 
 ## Conference papers
