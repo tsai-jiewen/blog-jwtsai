@@ -1,6 +1,10 @@
 ---
 title: 新增一篇寫中文的
 date: 2021-09-03T21:32:17.554Z
+summary: >
+  <iframe class="LikeCoin" height="235" src="https://button.like.co/in/embed/{{
+  .Site.Params.likerID }}/button?referrer={{ .Permalink }}" width="100%"
+  frameborder=0></iframe>
 draft: false
 featured: true
 authors:
