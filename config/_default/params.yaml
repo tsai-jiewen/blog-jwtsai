@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: ocean
+theme: 
 day_night: true
 font: 'Classic'
 font_size: XL
