@@ -6,6 +6,8 @@ draft: false
 featured: true
 authors:
   - JW Tsai
+projects:
+  - TAM 10 講
 image:
   filename: featured
   focal_point: Smart
