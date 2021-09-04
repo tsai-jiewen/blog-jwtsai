@@ -1,6 +1,6 @@
 
 {{- with partialCached "mod-wowchemy-cms/generate" . "mod-wowchemy-cms/generate" -}}
-    {{ .Content }} {{ partial "likecoin.html" . }}
+    {{- . }} {{ partial "likecoin.html" . }}
 {{- end -}}
   
 
