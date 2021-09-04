@@ -6,9 +6,7 @@ weight: 10
 title: 老師，我有在讀書！
 active: true
 content:
-  page_type: 
-    - post
-    - project
+  page_type: project
   count: 0
   order: desc
   filters:
