@@ -17,8 +17,8 @@ design:
   view: 1
 ---
 
-JW Tsai 個人部落格的核心概念是：{{< hl >}}「老師，我有在讀書」！{{< hl >}}psykit-learn 只是一個副標題。
+JW Tsai 個人部落格的核心概念是：{{< hl >}}「老師，我有在讀書」！{{< /hl >}}psykit-learn 只是一個副標題。
 
-{{% callout warning %}}
+{{% callout note %}}
 在首頁的地方放幾個 projects，類似系列文的概念，之後慢慢填坑！
 {{% /callout %}}
