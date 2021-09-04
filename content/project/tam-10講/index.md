@@ -1,5 +1,6 @@
 ---
 title: R 語言 TAM 套件．10 講
+subtitle: Test analysis modules (Robitzsch, Kiefer, & Wu, 2021)
 date: 2021-09-04T01:46:23.030Z
 draft: false
 featured: true
