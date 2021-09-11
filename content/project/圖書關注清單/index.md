@@ -8,7 +8,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-{{% toc %}}
+{{< toc >}}
 
 ## Configural frequency analysis
 - Menard, S. (Ed.). (2007). _Handbook of longitudinal research: Design, measurement, and analysis_. Elsevier.
