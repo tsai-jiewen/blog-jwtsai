@@ -13,3 +13,7 @@ main:
   - name: Posts
     url: post/
     weight: 30
+  - name: Support
+    url: https://liker.land/tsai_jiewen/civic
+    weight: 40 
+    
