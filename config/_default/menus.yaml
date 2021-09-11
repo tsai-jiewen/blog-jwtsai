@@ -14,7 +14,7 @@ main:
     url: post/
     weight: 30
   - name: Lists
-    url: project/
+    url: project/圖書關注清單/
     weight: 40
   - name: Support
     url: https://liker.land/tsai_jiewen/civic
