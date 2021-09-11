@@ -4,7 +4,7 @@ widget_id: my-widget-0904
 headless: true
 weight: 10
 title: 老師，我有在讀書！
-subtitle: R 語言｜教育測量｜心理計量｜統計分析｜資料科學
+subtitle: R 語言｜教育測量｜心理計量｜統計分析｜資料科學｜研究方法
 active: true
 content:
   page_type: project
