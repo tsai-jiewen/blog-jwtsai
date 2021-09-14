@@ -3,8 +3,8 @@ widget: featured
 widget_id: my-widget-0904
 headless: true
 weight: 10
-title: 老師，我有在讀書！
-subtitle: R 語言｜教育測量｜心理計量｜統計分析｜資料科學｜研究方法
+title: R 語言技術筆記：心理與教育資料分析
+subtitle: R 語言｜教育測量｜心理計量｜統計分析｜資料科學｜研究方法｜學術思考
 active: true
 content:
   page_type: project
@@ -17,7 +17,7 @@ content:
 design:
   view: 1
 ---
-JW Tsai 個人部落格的核心概念是：{{< hl >}}「老師，我有在讀書」！{{< /hl >}}psykit-learn 只是一個副標題。
+JW Tsai 個人部落格放的東西主要還是以 {{< hl >}} R 語言與資料分析 {{< /hl >}}相關議題為主。主要是在操作技巧層面的分享。
 
 {{% callout note %}}
 在首頁的地方放幾個 projects，類似系列文的概念，之後慢慢填坑！
