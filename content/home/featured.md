@@ -3,8 +3,7 @@ widget: featured
 widget_id: my-widget-0904
 headless: true
 weight: 10
-title: |
-R 語言技術筆記：|
+title: R 語言技術筆記：|
 心理與教育資料分析
 subtitle: R 語言｜教育測量｜心理計量｜統計分析｜資料科學｜研究方法｜學術思考
 active: true
