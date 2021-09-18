@@ -1,4 +1,5 @@
 ---
+widget: pages
 title: Posts
 cms_exclude: true
 
