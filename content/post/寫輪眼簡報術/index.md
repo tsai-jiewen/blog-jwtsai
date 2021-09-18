@@ -4,6 +4,8 @@ subtitle: 用 R 語言 xaringan 套件做簡報
 date: 2021-09-18T20:37:52.005Z
 draft: false
 featured: false
+authors:
+  - admiin
 tags:
   - xaringan
   - r
