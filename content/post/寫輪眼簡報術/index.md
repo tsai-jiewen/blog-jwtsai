@@ -5,7 +5,7 @@ date: 2021-09-18T20:37:52.005Z
 draft: false
 featured: false
 authors:
-  - admiin
+  - admin
 tags:
   - xaringan
   - r
@@ -23,7 +23,7 @@ image:
 {{< toc >}}
 
 ## 1. TPE-METRO
-我想，我這次改編的範本可以稱為{{< hl >}}「tpe-metro」{{< /hl >}}，因為他是來自於 LaTeX 時代著名的 Beamer 簡報範本「metropolis」（大都會）。而我這個我這個改編則是把華國美學（例：標楷體）應用到了 R 語言簡報技術上面，就姑且成為台北市（tpe-metro）吧。
+我想，我這次改編的範本可以稱為{{< hl >}}「tpe-metro」{{< /hl >}}，因為他是來自於 LaTeX 時代著名的 Beamer 簡報範本「metropolis」（大都會）。而我這個我這個改編則是把華國美學（例：標楷體）帶進了 R 語言簡報技術上面，就姑且成為台北市（tpe-metro）吧。
 
 ## 2. 基本設置
 
