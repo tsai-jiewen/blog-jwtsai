@@ -6,7 +6,7 @@
 # Appearance
 
 theme: starter-blog
-day_night: true
+day_night: False
 font: 'Classic'
 font_size: L
 
