@@ -22,21 +22,62 @@ image:
 
 {{< toc >}}
 
-## 1. TPE-METRO
-我想，我這次改編的範本可以稱為{{< hl >}}「tpe-metro」{{< /hl >}}，因為他是來自於 LaTeX 時代著名的 Beamer 簡報範本「metropolis」（大都會）。而我這個我這個改編則是把華國美學（例：標楷體）帶進了 R 語言簡報技術上面，就姑且成為台北市（tpe-metro）吧。
+## jouchuu
+1. 取名：**全集中・常中（じょうちゅう ）**，羅馬音轉換：Jouchuu。
 
-## 2. 基本設置
+2. 說明：普通的鬼殺隊劍士只會在使用技能的瞬間使用全集中呼吸。但是能力比較強的劍士（例如：柱），在使用技能以外的時間（甚至睡覺）也會持續使用全集中呼吸。這樣子長時間持續不斷的進行全集中呼吸，就稱為「全集中・常中」。如果能學會「全集中・常中」，體能會大幅提升，反應與速度也會與一般人大不相同！
 
-- 參考範本：
-- 字體：標楷體、Calibri
-- 顏色：
--
+3. 字型：獅尾四季春加糖，'SweiSpringSugarCJKtc-Medium'
 
-## 3. 標題頁（title-slide）
+4. 可用的 class：
+   記下來，別忘了有這些功能！
+
+| class                          | func.      | intro |
+| :----------------------------- | :--------- | :---- |
+| `.pull-left`/`.pull-right`     | 左/右欄位  |       |
+| `.left-column`/`.right-column` | 左/右欄位  |       |
+| `.footnote`                    | 頁尾註解   |       |
+| `.inverse`                     | 黑底       |       |
+| `.mark-bf`                     | 關鍵詞標示 |       |
+| `.mark-hl`                     | 螢光線標示 |       |
+| `.mark-call`                   | 文字框標示 |       |
+
+   
 
 
-## 4. ##
+4. yaml 欄位：（複製貼上即可）
 
+```{yaml}
+---
+title: 
+subtitle: ''
+author:    
+ - 報告人：蔡介文
+institute: ""
+date: ""
+output:
+  xaringan::moon_reader:
+    css: [default, jouchuu.css]
+    lib_dir: libs
+    nature:
+      titleSlideClass: middle   #"right", "top", "my-title", 
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+```
+
+4. `xaringanExtra` 包裡面的功能：
+   這些，都預先輸進去吧。
+
+```{r xaringan-tile-view, echo=FALSE}
+xaringanExtra::use_tile_view()
+xaringanExtra::use_editable(expires = 1)
+xaringanExtra::use_scribble()
+```
+
+5. 匯出 PDF，用 `xaringanBuilder::build_pdf()`
+6. 
 
 
 
