@@ -10,9 +10,6 @@ main:
   - name: About
     url: about/
     weight: 20
-  - name: Projects
-    url: project/
-    weight: 30
   - name: Lists
     url: project/好書關注清單/index
     weight: 40
