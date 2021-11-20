@@ -9,7 +9,7 @@ cms_exclude: true
 #   2 = Compact
 #   3 = Card
 design:
-  View: '1'
+  view: '1'
   columns: '1'
 
 # Optional header image (relative to `static/media/` folder).
