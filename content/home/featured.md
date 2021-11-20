@@ -17,8 +17,4 @@ content:
 design:
   view: 1
 ---
-JW Tsai 個人部落格放的東西主要還是以 {{< hl >}} R 語言與資料分析 {{< /hl >}}相關議題為主。主要是在操作技巧層面的分享。
 
-{{% callout note %}}
-在首頁的地方放幾個 projects，類似系列文的概念，之後慢慢填坑！
-{{% /callout %}}
