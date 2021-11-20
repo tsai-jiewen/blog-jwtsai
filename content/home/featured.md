@@ -7,7 +7,7 @@ title: JW Tsai +
 subtitle: R 語言｜教育測量｜心理計量｜統計分析｜資料科學｜研究方法｜學術思考
 active: true
 content:
-  page_type: project
+  page_type: post
   count: 0
   order: desc
   filters:
