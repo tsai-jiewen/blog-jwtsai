@@ -10,7 +10,7 @@ cms_exclude: true
 #   3 = Card
 design:
   view: 1
-  columns: 2
+  columns: 
 
 # Optional header image (relative to `static/media/` folder).
 header:
