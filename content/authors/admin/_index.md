@@ -36,8 +36,8 @@ Write sth for my bio.
 
 
 ## 教育背景
-- 2017-2020 政治大學教育行政與政策研究所，碩士。
-- 2013-2017 政治大學教育學系，學士。
+- 2017-2020 MA in Educational Administration, National ChengChi University, Taiwan
+- 2013-2017 BA in Education with Teacher Counselor Certificate (Secondary), National ChengChi University, Taiwan
 
 ## 重要經歷
 
