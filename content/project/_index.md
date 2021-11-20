@@ -3,8 +3,11 @@
 widget: blank
 headless: true
 
+content:
+  # Page type to display. E.g. post, event, or publication.
+  page_type: project
 # ... Put Your Section Options Here (title etc.) ...
-title: My New Section
+title: Projects
 subtitle:
 weight: 10  # section position on page
 design:
