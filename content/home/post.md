@@ -7,8 +7,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = ""
-subtitle = ""
+title = "JW Tsai +"
+subtitle = "Psychometrics Spells in R"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
