@@ -4,7 +4,7 @@ headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
 title: ""
-subtitle: "Projects"
+subtitle: ""
 content:
   # Page type to display. E.g. post, event, or publication.
   page_type: project
