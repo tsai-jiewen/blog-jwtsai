@@ -36,8 +36,8 @@ Write sth for my bio.
 
 
 ## Education
-- 2017-2020 MA in Educational Administration, National ChengChi University, Taiwan
-- 2013-2017 BA in Education with Teacher Counselor Certificate (Secondary), National ChengChi University, Taiwan
+- 2017-2020 MA in Educational Administration, National ChengChi University, Taiwan 🇹🇼
+- 2013-2017 BA in Education with Teacher Counselor Certificate (Secondary), National ChengChi University, Taiwan 🇹🇼
 
 ## Experience
 
