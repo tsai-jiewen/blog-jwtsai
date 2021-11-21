@@ -35,13 +35,13 @@ superuser: true
 Write sth for my bio.
 
 
-## 教育背景
+## Education
 - 2017-2020 MA in Educational Administration, National ChengChi University, Taiwan
 - 2013-2017 BA in Education with Teacher Counselor Certificate (Secondary), National ChengChi University, Taiwan
 
-## 重要經歷
+## Experience
 
-## 專長/證書
+## Certificate
 - 2018 107 年度公務人員考試高考三級，教育行政類科。
 - 2018 107 年度教師資格檢定，國民中學輔導活動專長。
 
