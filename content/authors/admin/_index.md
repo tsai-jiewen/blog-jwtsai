@@ -19,14 +19,14 @@ social:
     icon_pack: fab
     link: https://www.kaggle.com/tsaijwen
 organizations:
-  - name: National ChengChi University, Taiwan
+  - name: National ChengChi University, Taiwan 🇹🇼
 #education:
 #  courses:
 #    - course: MA in Educational Administration
-#      institution: National ChengChi University, Taiwan
+#      institution: National ChengChi University, Taiwan 🇹🇼
 #      year: 2020
 #    - course: BA in Education with Teacher Counselor Certificate (Secondary)
-#      institution: National ChengChi University, Taiwan
+#      institution: National ChengChi University, Taiwan 🇹🇼
 #      year: 2017
 email: tsai.jwen@gmail.com
 superuser: true
