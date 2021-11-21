@@ -3,7 +3,7 @@ widget: projects
 headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
-title: "projects"
+title: "Projects"
 content:
   # Page type to display. E.g. post, event, or publication.
   page_type: project
