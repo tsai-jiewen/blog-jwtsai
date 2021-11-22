@@ -1,10 +1,11 @@
 ---
 title: What do and should I write?
 subtitle: On the Internet.
-date: 2021-11-23
+date: 2021-11-22
 summary: ""
 draft: false
 featured: false
+  - en
 authors:
   - admin
 image:
@@ -27,3 +28,4 @@ Q: I am a student/researcher, so my writing will usually publish in a journal. S
 
 ## 2. Idea part: Review for a topic 
 - When we read books and papers, we will keep some notes (index cards), and it may be possible to develop some kind of framework that helps people understand well. This kind of paper is good for beginners but has not touched some frontier issues yet, so sharing on the net is not bad.
+
