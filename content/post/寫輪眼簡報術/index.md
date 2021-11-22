@@ -1,6 +1,6 @@
 ---
-title: 寫輪眼簡報術
-subtitle: 用 R 語言 xaringan 套件做簡報
+title: 全集中・常中（Jouchuu）簡報術
+subtitle: The customed version for R-xaringan pkg
 date: 2021-09-18T20:37:52.005Z
 draft: false
 featured: false
