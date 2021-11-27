@@ -1,0 +1,353 @@
+/* ------------- */
+/* web fonts     */
+/* ------------- */
+
+@font-face {
+  font-family: SweiSpringSugarCJKtc-Regular;
+  src: url(https://cdn.jsdelivr.net/gh/max32002/swei-spring@1.065/WebFont/CJK%20TC/SweiSpringSugarCJKtc-Regular.woff2) format("woff2")
+  , url(https://cdn.jsdelivr.net/gh/max32002/swei-spring@1.065/WebFont/CJK%20TC/SweiSpringSugarCJKtc-Regular.woff) format("woff");
+}
+
+@font-face {
+  font-family: SweiSansCJKtc-Regular;
+  src: url(https://cdn.jsdelivr.net/gh/max32002/swei-sans@2.102/WebFont/CJK%20TC/SweiSansCJKtc-Regular.woff2) format("woff2")
+  , url(https://cdn.jsdelivr.net/gh/max32002/swei-sans@2.102/WebFont/CJK%20TC/SweiSansCJKtc-Regular.woff) format("woff");
+}
+
+@font-face {
+  font-family: TaiwanPearl-Regular;
+  src: url(https://cdn.jsdelivr.net/gh/max32002/TaiwanPearl@2.125/webfont/TaiwanPearl-Regular.woff2) format("woff2")
+, url(https://cdn.jsdelivr.net/gh/max32002/TaiwanPearl@2.125/webfont/TaiwanPearl-Regular.woff) format("woff");
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Mono:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@200;300;400;500;600;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,500;1,600;1,700;1,800&display=swap');
+
+
+/* ------------- */
+/* settings      */
+/* ------------- */
+
+@charset "UTF-8";
+:root {
+  /* == 字体设置 == */
+  /* 基准字体 */
+  --base-Latin-font: 'Palatino', 'lmsans10-regular',  'georgia', 'Times New Roman','EB Garamond';
+  --base-Chinese-font:'Heiti TC','SweiSpringSugarCJKtc-Medium', 'jf-jinxuan',   'Noto Serif TC', 'DFKai-sb';
+  --base-font-size: 30px;
+  /* 引言字体 */
+  --quote-font: 'Palatino', 'Kaiiti TC', 'DFKai-sb';
+  /* 这里字体用了10pt,比正文字体稍大 */
+  /* 代码字体（代码中的中文会调用ui-font） */
+  --code-font: 'Noto Sans Mono CJK TC', 'Monaco','consolas', 'lmmono10-regular', 'JetBrains Mono', 'jf-jinxuan-medium';
+  
+  /* 标题字体分别设置 */
+  --h0-font-size: 45px;
+  /* 大标题（h1）字体 */
+  --h1-Latin-font: var(--base-Latin-font);
+  --h1-Chinese-font:'Heiti TC','SweiSpringSugarCJKtc-SemiBold' ,'jf-jinxuan-medium' ;
+  --h1-font-size: 40px;
+  --h2-font-size: 35px;
+  --h3-font-size: 35px;
+
+  /* 粗体样式设置 */
+  --bold-weight: 600;
+  --base-weight: 500;
+  /* 基础行距 */
+  --base-line-height: 1.5;
+  
+  /* 基本顏色 */
+  /* Colors are defined by the          */
+  /* Duke Branding Color Palette        */ 
+  /* https://styleguide.duke.edu/color-palette/   */
+  --color-pm: #4285F4;  /*primary color, Google color 500-600*/ /*#C84E00*/
+  --color-sc: #3842ad ;  /*secodary color, Google color 900*//*#1D6363;*/
+  --color-call: #e4f2ff; /*Google color 50*/
+  --color-cover: #F3F2F1; 
+  --color-highlight: #ffff88;
+  
+}
+
+
+body { 
+  font-family: var(--base-Latin-font), var(--base-Chinese-font), serif;
+}
+
+h1, h2, h3 {
+  font-family: var(--h1-Latin-font), var(--h1-Chinese-font), sans-serif;
+  font-weight: var(--bold-weight);
+}
+
+h1 {
+  /*line-height: 1.3;*/
+  margin-top: 0px;
+  margin-left: -00px;
+  color: var(--color-pm);
+}
+
+h2, h3, h4 {
+  padding-top: -15px;
+  padding-bottom: 00px;
+  text-shadow: none;
+  text-align: left;
+  margin-left: 00px;
+  margin-bottom: -10px;
+}
+
+li,ol{
+  margin: 16px auto;
+  font-weight: var(--base-weight);
+}
+a {
+  color: var(--color-sc);
+  text-decoration: underline dotted;
+}
+blockquote {
+  font-family: var(--quote-font);
+  font-size: var(--base-font-size);
+}
+
+/* 加粗 */
+
+strong {
+    /* padding: 0.1em; */
+    /* color: #dc3545; */
+    /* font-family: 'Microsoft YaHei'; */
+    /* font-size: 90%; */
+  font-family: var(--h1-Latin-font), var(--h1-Chinese-font);
+  font-weight: var(--bold-weight);
+  color: var(--color-pm);
+}
+  
+/* ------------- */
+/* classes       */
+/* ------------- */ 
+
+
+.remark-slide-content {
+  font-size: var(--base-font-size); */
+  font-weight: var(--base-weight);
+  letter-spacing: 0.05em;
+  line-height: var(--base-line-height);
+  padding: 1em 2em;
+}
+.remark-slide-content h1 {font-size: var(--h1-font-size);}
+.remark-slide-content h2 {font-size: var(--h2-font-size);}
+.remark-slide-content h3 {font-size: var(--h3-font-size);}
+
+.remark-code, .remark-inline-code, .remark-code-line { 
+  font-family: var(--code-font), monospace;
+  font-size: 500;
+}
+
+.footnote {
+  font-size: 60%;
+  color: var(--color-sc);
+}
+
+/* ------------- */
+/* table         */
+/* ------------- */
+
+.remark-slide table {
+  margin: auto;
+  font-size: 80%;
+  border-top: 2px solid #000;
+  border-bottom: 2px solid #000;
+}
+.remark-slide table thead th { border-bottom: 2px solid #000; }
+th, td { padding: 5px; }
+.remark-slide thead, .remark-slide tfoot, .remark-slide tr:nth-child(even) { 
+  background: white }
+
+
+/* ------------- */
+/* title slide   */
+/* ------------- */
+
+.title-slide {
+  background-color: var(--color-cover); /*#F3F2F1;*/
+}
+.title-slide h1  {
+  color: var(--color-pm);
+  font-size: var(--h0-font-size);
+  font-weight: 600 ; /*var(--bold-weight);*/
+  text-align: center; /*left;*/ 
+  padding-top: 30px;
+}
+.title-slide h2  {
+  margin-top: -25px;
+  padding-bottom: -20px;
+  color: var(--color-sc);
+  font-weight: var(--base-weight);
+  text-align: center; /*left;*/
+  
+}
+.title-slide h3  {
+  text-shadow: none;
+  font-weight: var(--base-weight);
+  text-align: center; /*left;*/
+  margin-bottom: -30px;
+}
+
+.center{
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
+
+hr {
+  border-top: solid 0.7px #eee; }
+
+img {
+  page-break-inside: avoid;
+  /* 避免图片在导出时被断开 */ }
+  
+hr, .mline h1::after {
+  content: '';
+  display: block;
+  border: none;
+  /* background-color: var(--color-pm); */
+  /* color: var(--color-pm); */
+  height: 1px;
+}
+
+hr, .mline h1::after {
+  margin: 1em 15px 0 15px;
+}
+
+h1::after {
+  content: '';
+  display: block;
+  border: none;
+  background-color: var(--color-pm);
+  /* color: var(--color-pm); */
+  height: 1px;
+}
+
+.title-slide h2::after {
+  margin: 10px 15px 35px 0;
+}
+
+.mline h1::after {
+  margin: 10px 15px 0 15px;
+}
+
+.remark-slide-number {
+  font-size: 13pt;
+  color: #272822;
+  opacity: 1;
+}
+.inverse .remark-slide-number {
+  font-size: 13pt;
+  color: #FAFAFA;
+  opacity: 1;
+}
+
+/* turns off slide numbers for title page: https://github.com/gnab/remark/issues/298 */
+.title-slide .remark-slide-number {
+  display: none;
+}
+
+
+
+.remark-inline-code {
+  background: #F8F8F8; /* lighter */
+  /* background: #e7e8e2; /* darker */
+  border-radius: 3px;
+  padding: 4px;
+}
+
+
+
+/* ------------ */
+/* mark         */ 
+/* ------------ */
+
+
+.content-box { 
+  box-sizing: content-box;
+  background-color: #e2e2e2;
+  /* Total width: 160px + (2 * 20px) + (2 * 8px) = 216px
+     Total height: 80px + (2 * 20px) + (2 * 8px) = 136px
+     Content box width: 160px
+     Content box height: 80px */
+}
+
+
+.full-width {
+  display: flex;
+  width: 100%;
+  flex: 1 1 auto;
+}
+
+
+.mark-hl {
+  border-radius: 10px; 
+  margin: 0 0 25px; 
+  overflow: hidden;
+  padding: 5px;
+  width: 100%;
+  /* set opacity in last decimal value of rgba */
+  background-color: var(--color-highlight);
+  /* background-color: rgba(244,160,0, .85) */
+}
+
+.mark-bf {
+  font-family: var(--h1-Latin-font), var(--h1-Chinese-font),sans-serif;
+  font-weight: var(--bold-weight);
+  color: var(--color-pm);
+}
+
+.mark-call {
+  /* set opacity: uncomment rgba line */ 
+  /* alter opacity with last decimal value of rgba */
+	background-color: var(--color-call) ; /*#e5f5eb ;*/
+	/* #cbdbdd
+  /* background-color: rgba(181, 181, 181,.85); */
+  border-radius: 15px;
+  margin: 0 0 25px;
+  overflow: hidden;
+  padding: 20px ;    
+  box-sizing: content-box;
+  width: auto;
+}
+
+/* --------------- */
+/* font szie class */
+/* --------------- */
+
+
+.code10 .remark-code {font-size: 10%;}
+.code20 .remark-code {font-size: 20%;}
+.code30 .remark-code {font-size: 30%;}
+.code40 .remark-code {font-size: 40%;}
+.code50 .remark-code {font-size: 50%;}
+.code60 .remark-code {font-size: 60%;}
+.code70 .remark-code {font-size: 70%;}
+.code80 .remark-code {font-size: 80%;}
+.code90 .remark-code {font-size: 90%;}
+.code100 .remark-code {font-size: 100%;}
+
+.font10 {font-size: 10%;}
+.font20 {font-size: 20%;}
+.font30 {font-size: 30%;}
+.font40 {font-size: 40%;}
+.font50 {font-size: 50%;}
+.font60 {font-size: 60%;}
+.font70 {font-size: 70%;}
+.font80 {font-size: 80%;}
+.font90 {font-size: 90%;}
+.font100 {font-size: 100%;}
+.font110 {font-size: 110%;}
+.font120 {font-size: 120%;}
+.font130 {font-size: 130%;}
+.font140 {font-size: 140%;}
+.font150 {font-size: 150%;}
+.font160 {font-size: 160%;}
+.font170 {font-size: 170%;}
+.font180 {font-size: 180%;}
+.font190 {font-size: 190%;}
+.font200 {font-size: 200%;}
