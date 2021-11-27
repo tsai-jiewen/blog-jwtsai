@@ -1,5 +1,5 @@
 ---
-title: Presentation Slayer: `jouchuu`
+title: Presentation Slayer: jouchuu
 subtitle: The customed css version for R-xaringan
 date: 2021-09-18T20:37:52.005Z
 draft: false
@@ -15,6 +15,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+
 >  全集中・常中（Jouchuu）簡報術 is inspired from the Japanese manga series  {{<hl>}}"Demon Slayer,"{{</hl>}} (Kimetsu no Yaiba, 鬼滅の刃, Kimetsu no Yaiba, "Blade of Demon Destruction").
 
 之前有寫過一篇文章說明怎麼用 R 語言實現學術寫作、簡報一條龍的工作，[How to use Rmarkdown to make slides and write drafts](https://blog-jwtsai.netlify.app/post/how-to-use-r-markdown-to-make-slides-and-write-drafts/)。不過那篇文章裡面用的是 R Beamer（轉成 PDF）的做簡報方法。而今天則是正式踏入 R 語言簡報神器「寫輪眼」的領域。
