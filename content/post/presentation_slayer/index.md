@@ -9,7 +9,6 @@ authors:
 tags:
   - xaringan
   - r
-  - ""
 image:
   filename: featured
   focal_point: Smart
