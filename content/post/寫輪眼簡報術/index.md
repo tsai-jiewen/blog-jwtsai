@@ -60,9 +60,9 @@ output:
     css: [default, jouchuu.css]
     lib_dir: libs
     nature:
-      titleSlideClass: middle   #"right", "top", "my-title", 
+      titleSlideClass:  [ "middle"]
       highlightStyle: github
-      highlightLines: true
+      highlightLines: TRUE
       countIncrementalSlides: false
 ---
 ```
@@ -70,11 +70,13 @@ output:
 4. `xaringanExtra` 包裡面的功能：
    這些，都預先輸進去吧。
 
+````{r xaringan-tile-view, echo=FALSE}
 ```{r xaringan-tile-view, echo=FALSE}
 xaringanExtra::use_tile_view()
 xaringanExtra::use_editable(expires = 1)
 xaringanExtra::use_scribble()
 ```
+````
 
 5. 匯出 PDF，用 `xaringanBuilder::build_pdf()`
 6. 
