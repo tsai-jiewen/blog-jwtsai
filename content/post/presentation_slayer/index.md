@@ -81,9 +81,9 @@ xaringanExtra::use_scribble()
 ````
 
 5. 匯出 PDF，用 `xaringanBuilder::build_pdf()`
-6. 
+6. Usage
 
-
+>  Path: https://github.com/tsai-jiewen/blog-jwtsai/blob/main/content/post/presentation_slayer/jouchuu.css
 
 
 
