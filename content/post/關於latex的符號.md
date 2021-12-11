@@ -5,6 +5,7 @@ subtitle: 關於 LaTex 的一些符號設置跟轉貼上 MS Word 的幾個驚喜
 date: 2021-08-03
 tags:
   - HackMD
+  - zh-tw
 categories:
   - LaTeX
 ---
