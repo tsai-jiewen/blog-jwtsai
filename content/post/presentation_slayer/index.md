@@ -1,5 +1,5 @@
 ---
-title: Presentation Slayer jouchuu
+title: Presentation Slayer jouchuu (zh-tw)
 subtitle: The customed css version for R-xaringan
 date: 2021-09-18T20:37:52.005Z
 draft: false
@@ -9,6 +9,7 @@ authors:
 tags:
   - xaringan
   - r
+  - zh-tw
 image:
   filename: featured
   focal_point: Smart
