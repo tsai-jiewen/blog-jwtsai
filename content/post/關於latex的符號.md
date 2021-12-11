@@ -1,12 +1,12 @@
 ---
-title: 關於 LaTex 的一些符號設置跟轉貼上 MS Word 的幾個驚喜
+title: " A tool: LatexToMathML (zh-tw)"
 author: Tsai JW
-date: '2021-08-03'
-#slug: hackmd
-categories:
-  - LaTeX
+subtitle: 關於 LaTex 的一些符號設置跟轉貼上 MS Word 的幾個驚喜
+date: 2021-08-03
 tags:
   - HackMD
+categories:
+  - LaTeX
 ---
 
 [![hackmd-github-sync-badge](https://hackmd.io/_WzY5zURTaady2-8mobKGA/badge)](https://hackmd.io/_WzY5zURTaady2-8mobKGA)
@@ -38,12 +38,12 @@ P(X_{ik}=1; \bf{A}, \bf{B}, \xi | \pmb{\theta}) = \dfrac{\exp( \bf{b_{ik}}\pmb{\
 
 - [LaTeX 公式轉 Word](http://web.xiaoyv.top/web/LatexToMathML/#home)
 
-It is too tired to use MS Word to make a formula like the one above. But at the moment (2020), I tried with RStudio or with Typora to output MS Word, and then both can't display the formula smoothly. So using this site, you can copy and paste with one click after typing LaTeX, which is a good tool for typing formulas!
+It is too tired to use MS Word to make a formula like the one above. But at the moment (2020), I tried with RStudio or Typora to output MS Word, and then both can't display the formula smoothly. So using this site, you can copy and paste with one click after typing LaTeX, which is a good tool for typing formulas!
 
 ## 一些常用 LaTeX（我怕忘記）
 
 - The first question is how to bold the Greek letters? The answer is to use `\pmb{}`!
-- The second is how to keep the in-line `\sum` superscript on display mode ( $\sum\limits_{k=1}^{K_i}$ ) instead of the in-line mode ( $\sum_{k=1}^{K_i}$ )? The answer is to add a `\limits` after `\sum`, and it can work!
+- The second is how to keep the in-line `\sum` superscript on display mode ( $\sum\limits_{k=1}^{K_i}$ ) instead of the in-line mode ( $\sum_{k=1}^{K_i}$ )? The answer is to add a `\limits` after `\sum`, which can work!
 
 
 ---
