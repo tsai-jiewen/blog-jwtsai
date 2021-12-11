@@ -1,10 +1,13 @@
 ---
-title: 科學寫作的三階梯
+title: Three steps for scientific writing (zh-tw)
+subtitle: 科學寫作的三階梯
 date: 2021-07-07T00:22:00.000Z
 draft: false
 featured: false
 authors:
   - admin
+tags:
+  - zh-tw
 image:
   filename: featured
   focal_point: Smart
