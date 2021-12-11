@@ -20,28 +20,23 @@ social:
     link: https://www.kaggle.com/tsaijwen
 organizations:
   - name: National ChengChi University, Taiwan 🇹🇼
-#education:
-#  courses:
-#    - course: MA in Educational Administration
-#      institution: National ChengChi University, Taiwan 🇹🇼
-#      year: 2020
-#    - course: BA in Education with Teacher Counselor Certificate (Secondary)
-#      institution: National ChengChi University, Taiwan 🇹🇼
-#      year: 2017
 email: tsai.jwen@gmail.com
 superuser: true
 ---
 
-Write sth for my bio.
+Why do I write this blog?
+
+
+
 
 
 ## Education
 - 2017-2020 MA in Educational Administration, National ChengChi University, Taiwan 🇹🇼
-- 2013-2017 BA in Education with Teacher Counselor Certificate (Secondary), National ChengChi University, Taiwan 🇹🇼
+- 2013-2017 BA in Education, National ChengChi University, Taiwan 🇹🇼
 
 ## Experience
 
-## Certificate
-- 2018 107 年度公務人員考試高考三級，教育行政類科。
-- 2018 107 年度教師資格檢定，國民中學輔導活動專長。
+## Licensures
+- 2018 Level Three Civil Service Senior Exam (Education administration).
+- 2018 Teacher Counselor Certificate (Secondary School).
 
