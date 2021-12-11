@@ -24,9 +24,11 @@ email: tsai.jwen@gmail.com
 superuser: true
 ---
 
-Why do I write this blog?
+## Why tech notes and psy/ed measurements? 
 
+I worked as an intern at the [Junyi Academy](https://www.junyiacademy.org/), a Taiwanese version of Khan Academy, when I was in colledge. From then on, I recognized the importance of STEM and started to think about what kind of role can help an education school student like me could play in the actual future education ecosystem. 
 
+My answer is to be a professional consultant/researcher and an expert in testing (rather than teaching). So I push myself to learn coding, math, measurement thoery, research skills, etc. And I know the best way to learn is by output. That is the origin story of this blog. 
 
 
 
@@ -37,6 +39,6 @@ Why do I write this blog?
 ## Experience
 
 ## Licensures
-- 2018 Level Three Civil Service Senior Exam (Education administration).
+- 2018 Level Three Civil Service Senior Exam (Educational Administration).
 - 2018 Teacher Counselor Certificate (Secondary School).
 
