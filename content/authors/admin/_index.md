@@ -28,7 +28,7 @@ superuser: true
 
 I worked as an intern at the [Junyi Academy](https://www.junyiacademy.org/), a Taiwanese version of Khan Academy when I was in colledge (2016-2017). From then on, I recognized the importance of STEM and started to think about what kind of role can help an education school student like me could play in the actual future education ecosystem. 
 
-My answer is to be a professional consultant/researcher and an expert in testing (rather than teaching). So I push myself to learn coding, math, measurement thoery, research skills, etc. And I know the best way to learn is by output. That is the origin story of this blog. 
+My answer is to be a **professional consultant/researcher** and an **expert in testing** (rather than teaching). So I push myself to learn coding, math, measurement thoery, research skills, etc. And I know the best way to learn is by output. That is the origin story of this blog. 
 
 
 
