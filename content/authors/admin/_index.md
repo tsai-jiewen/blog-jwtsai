@@ -24,7 +24,7 @@ email: tsai.jwen@gmail.com
 superuser: true
 ---
 
-## Why tech notes and psy/ed measurements? 
+# Why tech notes and psy/ed measurements? 
 
 I worked as an intern at the [Junyi Academy](https://www.junyiacademy.org/), a Taiwanese version of Khan Academy when I was in colledge (2016-2017). From then on, I recognized the importance of STEM and started to think about what kind of role can help an education school student like me could play in the actual future education ecosystem. 
 
