@@ -1,9 +1,11 @@
 ---
-title: How to use R Markdown to make slides and write drafts?
+title: How to use R Markdown to make slides and write drafts? (zh-tw)
 date: 2021-07-22T00:24:38.656Z
 summary: ""
 draft: false
 featured: false
+tags:
+  - zh-tw
 authors:
   - admin
 image:
