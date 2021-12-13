@@ -5,9 +5,9 @@
 
 # Appearance
 
-theme: 'strawberry'
+theme: 'minimal'
 day_night: true
-font: 'Rose' #'Classic'
+font: 'Classic'
 font_size: L
 
 # SEO
