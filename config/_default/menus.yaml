@@ -10,8 +10,8 @@ main:
   - name: About
     url: about/
     weight: 20
-  - name: Lists
-    url: project/好書關注清單/index
+  - name: Awesome
+    url: project/Awesome/index
     weight: 40
   - name: Support
     url: https://liker.land/tsai_jiewen/civic
