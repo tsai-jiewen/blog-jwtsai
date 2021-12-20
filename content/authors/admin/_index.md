@@ -18,6 +18,12 @@ social:
     icon: kaggle
     icon_pack: fab
     link: https://www.kaggle.com/tsaijwen
+  - display:
+      header: false
+    link: https://jiewentsai.medium.com/
+    label: ""
+    icon_pack: fab
+    icon: medium-m
 organizations:
   - name: National ChengChi University, Taiwan 🇹🇼
 email: tsai.jwen@gmail.com
