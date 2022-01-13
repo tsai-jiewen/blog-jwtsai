@@ -31,7 +31,7 @@ superuser: true
 ---
 ## Why tech notes and psy/ed measurements?
 
-I worked as an intern at the [Junyi Academy](https://www.junyiacademy.org/), a Taiwanese version of Khan Academy In college (2016-2017). From then on, I recognized the importance of STEM and started to think about what kind of role can help an education school student like me could play in the actual future education ecosystem?
+I worked as an intern at the [Junyi Academy](https://www.junyiacademy.org/), a Taiwanese version of Khan Academy In college (2016-2017). From then on, I realized the importance of STEM and started to think about what kind of role can help an education school student like me could play in the actual future education ecosystem?
 
 My answer is to be a **professional consultant/researcher** and an **expert in testing** (rather than teaching). So I push myself to learn coding, math, measurement theory, research skills, etc. And I know {{< hl >}}the best way to learn is by output.{{< /hl >}} That is the origin story of the current blog. 
 
