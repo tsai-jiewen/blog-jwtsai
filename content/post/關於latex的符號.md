@@ -48,5 +48,4 @@ It is too tired to use MS Word to make a formula like the one above. But at the 
 - The second is how to keep the in-line `\sum` superscript on display mode ( $\sum\limits_{k=1}^{K_i}$ ) instead of the in-line mode ( $\sum_{k=1}^{K_i}$ )? The answer is to add a `\limits` after `\sum`, which can work!
 
 
----
 ## Re:
