@@ -15,15 +15,15 @@ font_size: L
 site_type: Person
 local_business_type: ''
 org_name: ''
-description: 'R 語言｜教育測量｜心理計量｜統計分析｜資料科學｜研究方法｜學術思考'
-twitter: 'wowchemy'
+description: 'Tech Notes for Psychometrics and Educational Measurement'
+twitter: ''
 
 # Site header
 
 main_menu:
   enable: true
   align: c
-  show_logo: false
+  show_logo: true
   show_language: false
   show_day_night: true
   show_search: true
