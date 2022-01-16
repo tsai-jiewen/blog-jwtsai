@@ -1,5 +1,5 @@
 ---
-title: A tool: LatexToMathML (zh-tw)
+title: 'A tool: LatexToMathML (zh-tw)'
 authors: 
   - admin
 subtitle: 關於 LaTex 的一些符號設置跟轉貼上 MS Word 的幾個驚喜
