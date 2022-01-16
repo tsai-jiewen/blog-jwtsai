@@ -8,7 +8,7 @@ tags:
 ---
 [![hackmd-github-sync-badge](https://hackmd.io/WTHz1t8KRwuV0j7ldbEUhA/badge)](https://hackmd.io/WTHz1t8KRwuV0j7ldbEUhA)
 
-{{ <toc> }}
+{{< toc >}}
 
 ## 1 使用 R 套件 blogdown
 
