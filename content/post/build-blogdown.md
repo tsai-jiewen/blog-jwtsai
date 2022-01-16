@@ -1,7 +1,7 @@
 ---
-title: How to build a personal website with R blogdown? (zh-tw)
-author: admin
-date: 2020-11-16
+title: 'How to build a personal website with R blogdown? (zh-tw)'
+authors: admin
+date: '2020-11-16'
 tags:
   - zh-tw
   - r
