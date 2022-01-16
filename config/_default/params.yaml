@@ -5,9 +5,9 @@
 
 # Appearance
 
-theme: 1950s
+theme: minimal
 day_night: true
-font: 'Classic'
+font: 'Rose'
 font_size: L
 
 # SEO
