@@ -15,6 +15,9 @@ image:
   preview_only: false
 ---
 
+[![hackmd-github-sync-badge](https://hackmd.io/rukacjfsSMKLe32BVjUhrA/badge)](https://hackmd.io/rukacjfsSMKLe32BVjUhrA)
+
+
 :::success
 Build a customed package `bibliometrixExtra`  (Extended functions for bibliometrix) to put the functions in, that will make the synonyms replacing processing  easier.
 :::
