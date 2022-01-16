@@ -21,7 +21,8 @@ image:
 :::success
 Build a customed package `bibliometrixExtra`  (Extended functions for bibliometrix) to put the functions in, that will make the synonyms replacing processing  easier.
 :::
-[TOC]
+
+{{< toc >}}
 
 
 :::spoiler older info
