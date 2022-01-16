@@ -1,11 +1,12 @@
 ---
-title: 'How to build a personal website with R blogdown? (zh-tw)'
+title: How to build a personal website with R blogdown? (zh-tw)
 authors: admin
-date: '2020-11-16'
+date: 2020-11-16
 tags:
   - zh-tw
   - r
 ---
+
 [![hackmd-github-sync-badge](https://hackmd.io/WTHz1t8KRwuV0j7ldbEUhA/badge)](https://hackmd.io/WTHz1t8KRwuV0j7ldbEUhA)
 
 {{< toc >}}
