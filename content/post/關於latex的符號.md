@@ -9,7 +9,6 @@ tags:
   - zh-tw
 categories:
   - LaTeX
-  - 
 ---
 
 [![hackmd-github-sync-badge](https://hackmd.io/_WzY5zURTaady2-8mobKGA/badge)](https://hackmd.io/_WzY5zURTaady2-8mobKGA)
