@@ -8,14 +8,18 @@ subtitle: Tech Notes for Psychological and Educational Measurement
 active: true
 content:
   page_type: post
-  offset: 0
-  order: desc
   filters:
     tag: ""
     category: ""
     publication_type: ""
     author: ""
     exclude_featured: false
+  # Choose how many pages you would like to display (0 = all pages)
+  count: 0
+  # Choose how many pages you would like to offset by
+  offset: 0
+  # Page order: descending (desc) or ascending (asc) date.
+  order: desc
   archive:
     enable: false
 design:
